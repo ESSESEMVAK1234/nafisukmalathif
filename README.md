@@ -1,6 +1,6 @@
 # nafisukmalathif
 WhatsApp Bomber
-git clone https://github.com/ESSESEMVAK1234/whatsapp-bomber
+git clone https://github.com/nafisukmalathifwhatsapp-bomber
 
 pip install -r requirements.txt
 
